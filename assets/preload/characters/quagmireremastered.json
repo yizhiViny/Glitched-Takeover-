@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				43,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				43,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-56,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				103,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idleALT",
+			"indices": [],
+			"name": "2Idle"
+		},
+		{
+			"offsets": [
+				43,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTALT",
+			"indices": [],
+			"name": "2Left"
+		},
+		{
+			"offsets": [
+				43,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNALT",
+			"indices": [],
+			"name": "2Down"
+		},
+		{
+			"offsets": [
+				-56,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPALT",
+			"indices": [],
+			"name": "2Up"
+		},
+		{
+			"offsets": [
+				2,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTALT",
+			"indices": [],
+			"name": "2Right"
+		},
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idleALT2",
+			"indices": [],
+			"name": "3Idle"
+		},
+		{
+			"offsets": [
+				43,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTALT2",
+			"indices": [],
+			"name": "3Left"
+		},
+		{
+			"offsets": [
+				43,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNALT2",
+			"indices": [],
+			"name": "3Down"
+		},
+		{
+			"offsets": [
+				-56,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPALT2",
+			"indices": [],
+			"name": "3Up"
+		},
+		{
+			"offsets": [
+				2,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTALT2",
+			"indices": [],
+			"name": "3Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Airborne_Quagmire",
+	"position": [
+		380,
+		180
+	],
+	"healthicon": "squad",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

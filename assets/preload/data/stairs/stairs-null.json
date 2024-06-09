@@ -1,0 +1,2326 @@
+{
+	"song": {
+		"player1": "bf",
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						15000,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						15222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						15666.6666666667,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						15666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						15888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						15444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						15444.4444444444,
+						2,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						16000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						16111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						16222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						16444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						16444.4444444444,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						16666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						16666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						16888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						17111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						17333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						17555.5555555556,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						17444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						17666.6666666667,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						17888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						18111.1111111111,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						18333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						18444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						18444.4444444444,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						18666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						18888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						19111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						19222.2222222222,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						19333.3333333333,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						19444.4444444444,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						19444.4444444444,
+						1,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						19666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						19888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						19888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						20333.3333333333,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						20333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						20777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						20666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						21222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						21111.1111111111,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						20888.8888888889,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						21000,
+						3,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						21555.5555555556,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						22666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						21333.3333333333,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						21555.5555555556,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						21777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						21888.8888888889,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						22000,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						22000,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						22222.2222222222,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						22333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						22444.4444444444,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						22444.4444444444,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						22777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						22888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						23555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						23666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						23888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						23888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						24555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						24666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						23222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						23333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						23444.4444444444,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						24111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						24222.2222222222,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						24333.3333333333,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						24444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						24888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						25111.1111111111,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						25222.2222222222,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						25333.3333333333,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						25555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						25666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						25777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						26111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						26111.1111111111,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						26000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						26555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						26666.6666666667,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						26777.7777777778,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						27222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						26888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						27000,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						27111.1111111111,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						27555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						27666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						27777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						28000,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						28222.2222222222,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						28222.2222222222,
+						3,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						27333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						27444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						29000,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						29000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						28555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						28666.6666666667,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						28777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						29444.4444444444,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						29555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						29666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						29888.8888888889,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						30000,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						30111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						30333.3333333333,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						31000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						31111.1111111111,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						31222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						31444.4444444444,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						31444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						31666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						31777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						31888.8888888889,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						30222.2222222222,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						30444.4444444444,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						30555.5555555556,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						30666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						30777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						30888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						32222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						32111.1111111111,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						32333.3333333333,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						32444.4444444444,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						32555.5555555556,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						32666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						32777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						32777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						33000,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						33000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						33222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						33333.3333333333,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						33555.5555555556,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						33444.4444444444,
+						2,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						33777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						33888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						34111.1111111111,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						34444.4444444444,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						34666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						34888.8888888889,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						34888.8888888889,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						35222.2222222222,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						35222.2222222222,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						34000,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						34222.2222222222,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						34333.3333333333,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						35666.6666666667,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						35777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						36000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						36111.1111111111,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						36333.3333333333,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						36555.5555555556,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						36555.5555555556,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						36888.8888888889,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						36888.8888888889,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						35888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						37333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						37444.4444444444,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						37555.5555555556,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						37555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						37777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						38000,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						38222.2222222222,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						38222.2222222222,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						38555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						38777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						39000,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						39000,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						39333.3333333333,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						39555.5555555556,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						40111.1111111111,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						40222.2222222222,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						40444.4444444445,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						40666.6666666667,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						40666.6666666667,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						39777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						39888.8888888889,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						40000,
+						1,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						41000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						41000,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						41555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						41666.6666666667,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						41444.4444444445,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						41777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						41888.8888888889,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						42000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						42111.1111111111,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						42222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						42333.3333333333,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						42444.4444444445,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						42555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						42666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						42777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						42888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						43000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						43111.1111111111,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						43222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						43333.3333333333,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						43444.4444444445,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						43555.5555555556,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						43666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						43777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						43888.8888888889,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						44000,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						44111.1111111111,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						44222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						44333.3333333333,
+						3,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						44555.5555555556,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						44777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						44777.7777777778,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						45222.2222222222,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						45222.2222222222,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						45444.4444444445,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						45000,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						45555.5555555556,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						45777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						46000,
+						2,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						46222.2222222222,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						46444.4444444445,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						46444.4444444445,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						46555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						46666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						46888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						46888.8888888889,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						47000,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						47111.1111111111,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						47222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						47333.3333333334,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						47444.4444444445,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						47555.5555555556,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						47666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						47777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						48000,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						48555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						48666.6666666667,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						48888.8888888889,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						48444.4444444445,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						49222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						49333.3333333334,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						49444.4444444445,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						49777.7777777778,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						50555.5555555556,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						51000,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						51333.3333333334,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						51333.3333333334,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						50111.1111111111,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						50222.2222222222,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						50333.3333333334,
+						0,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						52222.2222222222,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						52000,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						52000,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						52222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						52444.4444444445,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						52444.4444444445,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						52666.6666666667,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						52666.6666666667,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						52888.8888888889,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						52888.8888888889,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						53111.1111111111,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						53222.2222222222,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						51777.7777777778,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						51777.7777777778,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						51555.5555555556,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						51555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [
+					[
+						53333.3333333334,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						53444.4444444445,
+						1,
+						0,
+						"PeterNotes"
+					],
+					[
+						53555.5555555556,
+						3,
+						0,
+						"PeterNotes"
+					],
+					[
+						53666.6666666667,
+						0,
+						0,
+						"PeterNotes"
+					],
+					[
+						53777.7777777778,
+						2,
+						0,
+						"PeterNotes"
+					],
+					[
+						53888.8888888889,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						54111.1111111111,
+						2,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						54333.3333333334,
+						0,
+						111.111111111111,
+						"PeterNotes"
+					],
+					[
+						54333.3333333334,
+						1,
+						111.111111111111,
+						"PeterNotes"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 135
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 135,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "dad",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "stairs",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "stage",
+		"bpm": 135,
+		"speed": 2.5
+	}
+}
